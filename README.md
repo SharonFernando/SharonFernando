@@ -1,5 +1,5 @@
 # 👋 Olá, Eu sou Sharon Fernando
-## 📊 Analista de Dados (Júnior / Pleno em transição)
+## 📊 Analista de Dados
 
 Apaixonado por transformar dados em insights estratégicos.
 Domino SQL, criação de dashboards (Power BI, Looker Studio, Metabase)
