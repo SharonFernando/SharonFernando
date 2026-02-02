@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @SharonFernando
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Olá, Eu sou Sharon Fernando
+## 📊 Analista de Dados (Júnior / Pleno em transição)
 
-<!---
-SharonFernando/SharonFernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Apaixonado por transformar dados em insights estratégicos.
+Domino SQL, criação de dashboards (Power BI, Looker Studio, Metabase)
+e análises orientadas a negócio.
+
+### 🛠️ Tecnologias
+SQL • BigQuery • Power BI • Looker Studio • Metabase • Python (básico)
+
+### 📁 Projetos
+📌 **olist-sql-eda** — Análise exploratória de dados SQL  
+📌 **olist-dashboard-powerbi** — Dashboard de métricas de vendas
+
+🔗 LinkedIn: https://linkedin.com/in/sharonfernando83
+
+📫 Email: sharon.fernando@gmail.com
