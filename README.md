@@ -9,7 +9,7 @@
 
 <hr>
 
-### 🧪 Portfólio em Ciência de Dados & IA 📊
+### 🧪 Portfólio  📊
 Aqui você encontra projetos envolvendo análise de dados e resolução de problemas reais, incluindo análises exploratórias e dashboards.
 
 #### 📉 Projeto em Destaque
