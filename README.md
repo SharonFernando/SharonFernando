@@ -41,5 +41,5 @@ Aqui você encontra projetos envolvendo análise de dados e resolução de probl
 ### 📫 Vamos nos conectar!
 <ul>
 <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/sharonfernando83">linkedin.com/in/sharonfernando83</a></li>
-<li>✉️ Email: sharon.fernando@gmail.com</li>
+<li>✉️ Email: <a href="sharon.fernando@gmail.com">sharon.fernando@gmail.com</a></li>
 </ul>
