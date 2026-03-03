@@ -16,6 +16,8 @@ Aqui você encontra projetos envolvendo análise de dados e resolução de probl
 
 <ul>
 <li>📌 <a href="https://github.com/SharonFernando/olist-sql-eda"><b>olist-sql-eda</b></a> — Análise exploratória de dados SQL</li>
+<li>📌 <a href="https://github.com/SharonFernando/chinook-sql-analytics"><b>chinook-sql-analytics</b></a> — Análise de dados utilizando PostgreSQL e a base de dados clássica Chinook Database</li>
+<li>📌 <a href="https://github.com/SharonFernando/AI-Instagram-Pet-Automation-n8n-Self-Hosted)"><b>AI-Instagram-Pet-Automation-n8n-Self-Hosted</b></a> — Fluxo automatizado de postagem no instagram usando IA, na ferramenta n8n.</li>
 </ul>
 
 <hr>
